@@ -74,7 +74,7 @@ User Endpoints
   - .NET: The platform for building and running the application (.NET 8.0)
 
 
-> This project was created to contribute to my knowledge and experience with .NET Web API. It showcases the use of ASP.NET Core and Entity Framework Core to build a simple RESTful API. The goal is to enhance my skills in web development and share a practical implementation of building APIs with .NET.
+>  This project is open to contributions! Whether you're an experienced developer or just getting started with .NET Web APIs, your contributions are welcome.
 
 **Contributing**
 
