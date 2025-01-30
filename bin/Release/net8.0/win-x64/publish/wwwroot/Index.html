@@ -1,0 +1,125 @@
+﻿
+<html>
+
+    <head>
+        <link rel="icon" type="image/x-icon" href="images/logo.png">
+        <title>Fake Restaurant API</title>
+        <link rel="stylesheet" href="index.css">
+        <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+        
+    </head>
+    <body>
+        
+        <nav>
+            <div class="intrologo">
+                <img src="images/logo.png" alt="">
+            </div>
+            <div><a href="Index.html">Home</a>
+            <a href="Docs.html">Docs</a>
+        <a href="">Github</a></div>
+        </nav>
+       
+        <div class="container">
+
+        <div class="intro">
+            <div class="introtext">
+                <h1>Fake Restaurant API</h1>
+                <p>Prototype your e-commerce and food ordering system with the Fake Restaurant Rest API.  </p>
+                
+                   
+                    <a href="Docs.html" class="docsbtn">Docs
+                    <i class='bx bxs-book-bookmark'></i></a>
+                
+                    <!-- <a href="">View on Github</a> -->
+                
+            </div>
+            <div class="logo">
+                <img src="images/foodorder.png" alt="">
+            </div>
+        </div>
+
+        <div class="product_intro">
+           <h3>Stuck with Lorem Ipsum food data? Need a free API for your food e-commerce project? </h3>
+           <p >FakeRestaurantAPI is a free online REST API that offers mock data for your food e-commerce or ordering site, no server-side code required. Ideal for demos, practice, testing, and prototyping.</p>
+        </div>
+
+        <div class="resources">
+            <h2>Resources</h2>
+            <p>The data categorized into Three Resources.</p>
+            <div class="resourcesbox">
+                <div><a href="Docs.html#restaurants">Restaurants</a></div>
+                <div><a href="Docs.html#orders">Orders</a></div>
+                <div><a href="Docs.html#users">Users</a></div>
+
+
+
+            </div>
+        </div>
+        <div class="resources">
+            <h2>Requests</h2>
+            <p> All HTTP request verbs supported in API</p>
+            <div class="resourcesbox">
+                <div>GET</div>
+                <div>POST</div>
+                <div>PUT</div>
+                <div>DELETE</div>
+
+
+
+            </div>
+        </div>
+        <form id="contactForm">
+        <div class="message">
+            <h3>say your thoughts</h3>
+            <div class="inputarea">
+              
+                <input type="text" id="name" placeholder="Name">
+                <input type="email" id="email" placeholder="Email">
+                <textarea name="" id="message" placeholder="Feedback" ></textarea>
+                <button class="sub button" type="submit">Submit</button>
+            </div>
+        </div>
+    </form>
+
+
+
+        </div>
+        <footer>
+            <p>Made with 💙 by Aravind Attepu</p>
+
+            </footer>
+    </body>
+
+    <script type="text/javascript"
+        src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js">
+</script>
+<script>
+    (function() {
+        emailjs.init("bwRmFuG5hE_h7Yshu");  // Replace with your EmailJS User ID
+    })();
+
+    document.getElementById("contactForm").addEventListener("submit", function(event) {
+        event.preventDefault(); // Prevent form from refreshing the page
+
+        emailjs.send("service_r57nawo", "template_dej173s", {
+            from_name: document.getElementById("name").value,
+            from_email: document.getElementById("email").value,
+            message: document.getElementById("message").value,
+            to_name:"Aravind"
+        }).then(
+            function(response) {
+                alert("Email sent successfully!");
+            },
+            function(error) {
+                alert("Failed to send email. Please try again.");
+            }
+        );
+    });
+</script>
+
+
+
+</html>

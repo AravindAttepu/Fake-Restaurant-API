@@ -1,0 +1,285 @@
+.container{
+    width: 70%;
+    margin-inline:auto;
+    
+}
+.doccontainer{
+    width: 85%;
+    margin-inline: auto;
+    margin-top:80px;
+}
+html{
+    width: 100%;
+    font-family: "poppins", serif;
+    margin:0;
+    
+}
+.intro{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+pre{
+    margin: 0;
+   
+}
+body{
+    margin: 0;  
+}
+*{
+    transition: all 0.5s ease;
+}
+.inputarea{
+    display: flex;
+    flex-direction: column;
+}
+.inputarea input{
+    height: 35px;
+    padding-inline:5px;
+    font-size: 16px;
+    margin-block: 10px;
+    
+}
+.inputarea textarea{
+    height: 100px;
+    font-size: 16px;
+    outline: none;
+    resize: none;
+
+}
+.inputarea *:focus{
+    border-color: #802c6e;
+    outline: none;
+    background-color: rgb(238, 238, 236);
+    transform: scale(1.05);
+}
+
+.introtext{
+   text-align: left;
+
+width: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.introtext .docsbtn{
+   
+    color: white;
+    background-color: #faaf65;
+    padding:10px;
+
+    min-width: 100px;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 10px;
+}
+.introtext a{
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+}
+.logo{
+    height: 400px;
+    width: 400px;
+    object-fit: cover;
+    display: flex;
+    justify-content: center;
+
+}
+.logo img{
+    width: 100%;
+    height: 100%;
+    object-fit: fill;
+}
+.product_intro{
+    text-align: center;
+}
+.resources{
+    text-align: left;
+
+}
+.resources p{
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 40px;
+}
+.resourcesbox{
+    padding-block: 10px;
+
+
+}
+.resources h2{
+    margin-top: 30px;
+}
+.docbox{
+    background-color:rgb(247, 246, 244);
+    border-radius: 10px;
+    padding: 15px;
+    box-shadow: 5px 10px 18px #888888;
+    word-wrap: break-word;
+}
+.docbox *{
+    font-weight: normal;
+    overflow: auto; /* Enable scrolling */
+  scrollbar-width: none; /* Firefox */
+  -ms-overflow-style: none; /* Internet Explorer 10+ */
+}
+.docbox span{
+    color:#802c6e;
+}
+code{
+    letter-spacing: 1px;
+
+    line-height: 1.5;
+    display: block;
+    font-size: 15px;
+    
+}
+.button{
+    margin-block: 10px;
+    height: 35px;
+    font-size: 15px;
+    width: 120px;
+    background-color: white;
+    color: rgb(216, 78, 214);
+    border: 2px solid;
+    border-radius: 5px;
+    padding-inline: 10px;
+
+    
+
+
+}
+.message h3{
+   text-transform: capitalize;
+   text-shadow: #1b1a1a 2px 2px 10px;
+    
+}
+.message{
+    border-top: 1px solid rgb(141, 139, 139);
+    padding-inline: 10px;
+   
+}
+.button:hover
+{
+    /* filter: invert(100%); */
+    color: white;
+    background-color: rgb(216, 78, 214);
+}
+.block{
+    display: block;
+}
+.hide
+{
+    display: none;
+}
+.displaybtn{
+    max-height: 0;
+    transition: max-height 0.5s ease, opacity 0.5s ease;
+    overflow: hidden;
+    text-align: left;
+}
+.displaybtn.block{
+    max-height: max-content;
+    opacity: 1;
+}
+
+.resourcesbox *{
+    color: rgb(16, 140, 194);
+    font-weight: bolder;
+    padding-bottom: 10px;
+    text-decoration: none;
+
+}
+footer{
+    
+    height: 150px;
+    background-color: antiquewhite;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+nav{
+    
+    height: 100px;
+    background-color: antiquewhite;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-inline: 20px;
+
+}
+nav a{
+    text-decoration: none;
+    padding-inline: 20px;
+    font-weight: bold;
+    color: rgb(109, 112, 112);
+
+}
+nav a:hover{
+    color: aquamarine;
+}
+
+.intrologo{
+    width: 50px;
+    height: 50px;
+    object-fit: contain;
+}
+.intrologo img{
+    /* height: 100%; */
+    width: 100%;
+}
+.resources p{
+    font-weight: 500;
+}
+.resources .info{
+    font-weight: 300;
+    font-size: 14px;
+    width: max-content;
+    margin: 0;
+}
+.introtext a:hover{
+background-color: white;
+color:red;
+border: 1px solid red ;
+}
+.infodiv{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+   
+    margin-top: 30px;
+}
+
+@media screen and (max-width: 968px) {
+
+    .resources p{
+        font-size: 12px;
+    }
+    .introtext{
+        width:1000px;
+        
+    }
+    .logo{
+        width: 100%;
+    }
+    code{
+        font-size: 10px;
+    }
+    .intro{
+        justify-content: center;
+    }
+    .button{
+        font-size: 10px;
+        width: 90px;
+        height: 30px;
+    }
+    .resources .info{
+        font-weight: 200;
+        font-size: 10px;
+
+    }
+    
+}

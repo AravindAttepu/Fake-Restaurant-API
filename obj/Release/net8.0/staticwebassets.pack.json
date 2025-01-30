@@ -1,0 +1,361 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\.net projects\\FakeRestuarantAPI\\wwwroot\\Docs.html",
+      "PackagePath": "staticwebassets\\Docs.html"
+    },
+    {
+      "Id": "D:\\.net projects\\FakeRestuarantAPI\\wwwroot\\Index.html",
+      "PackagePath": "staticwebassets\\Index.html"
+    },
+    {
+      "Id": "D:\\.net projects\\FakeRestuarantAPI\\wwwroot\\images\\Amritsari-fish.webp",
+      "PackagePath": "staticwebassets\\images\\Amritsari-fish.webp"
+    },
+    {
+      "Id": "D:\\.net projects\\FakeRestuarantAPI\\wwwroot\\images\\Chicken-Haleem.jpg",
+      "PackagePath": "staticwebassets\\images\\Chicken-Haleem.jpg"
+    },
+    {
+      "Id": "D:\\.net projects\\FakeRestuarantAPI\\wwwroot\\images\\Chicken-Shawarma.jpg",
+      "PackagePath": "staticwebassets\\images\\Chicken-Shawarma.jpg"
+    },
+    {
+      "Id": "D:\\.net projects\\FakeRestuarantAPI\\wwwroot\\images\\Chingri-Malai-Curry.jpg",
+      "PackagePath": "staticwebassets\\images\\Chingri-Malai-Curry.jpg"
+    },
+    {
+      "Id": "D:\\.net projects\\FakeRestuarantAPI\\wwwroot\\images\\Dal-Makhani.webp",
+      "PackagePath": "staticwebassets\\images\\Dal-Makhani.webp"
+    },
+    {
+      "Id": "D:\\.net projects\\FakeRestuarantAPI\\wwwroot\\images\\Dosa.jpg",
+      "PackagePath": "staticwebassets\\images\\Dosa.jpg"
+    },
+    {
+      "Id": "D:\\.net projects\\FakeRestuarantAPI\\wwwroot\\images\\Double-ka-Meetha.jpg",
+      "PackagePath": "staticwebassets\\images\\Double-ka-Meetha.jpg"
+    },
+    {
+      "Id": "D:\\.net projects\\FakeRestuarantAPI\\wwwroot\\images\\Fish-Molee.jpg",
+      "PackagePath": "staticwebassets\\images\\Fish-Molee.jpg"
+    },
+    {
+      "Id": "D:\\.net projects\\FakeRestuarantAPI\\wwwroot\\images\\Gulab-Jamun.jpg",
+      "PackagePath": "staticwebassets\\images\\Gulab-Jamun.jpg"
+    },
+    {
+      "Id": "D:\\.net projects\\FakeRestuarantAPI\\wwwroot\\images\\KEEMAMUTTON.webp",
+      "PackagePath": "staticwebassets\\images\\KEEMAMUTTON.webp"
+    },
+    {
+      "Id": "D:\\.net projects\\FakeRestuarantAPI\\wwwroot\\images\\Mango-Lassi.jpg",
+      "PackagePath": "staticwebassets\\images\\Mango-Lassi.jpg"
+    },
+    {
+      "Id": "D:\\.net projects\\FakeRestuarantAPI\\wwwroot\\images\\MysorePak.jpg",
+      "PackagePath": "staticwebassets\\images\\MysorePak.jpg"
+    },
+    {
+      "Id": "D:\\.net projects\\FakeRestuarantAPI\\wwwroot\\images\\Pasta-Primavera.jpg",
+      "PackagePath": "staticwebassets\\images\\Pasta-Primavera.jpg"
+    },
+    {
+      "Id": "D:\\.net projects\\FakeRestuarantAPI\\wwwroot\\images\\Peshwari-naan.webp",
+      "PackagePath": "staticwebassets\\images\\Peshwari-naan.webp"
+    },
+    {
+      "Id": "D:\\.net projects\\FakeRestuarantAPI\\wwwroot\\images\\Pineapple-Coconut-cake.jpg",
+      "PackagePath": "staticwebassets\\images\\Pineapple-Coconut-cake.jpg"
+    },
+    {
+      "Id": "D:\\.net projects\\FakeRestuarantAPI\\wwwroot\\images\\Prawn-Masala.jpg",
+      "PackagePath": "staticwebassets\\images\\Prawn-Masala.jpg"
+    },
+    {
+      "Id": "D:\\.net projects\\FakeRestuarantAPI\\wwwroot\\images\\RavaIdli.jpg",
+      "PackagePath": "staticwebassets\\images\\RavaIdli.jpg"
+    },
+    {
+      "Id": "D:\\.net projects\\FakeRestuarantAPI\\wwwroot\\images\\Sheer-Khurma.jpg",
+      "PackagePath": "staticwebassets\\images\\Sheer-Khurma.jpg"
+    },
+    {
+      "Id": "D:\\.net projects\\FakeRestuarantAPI\\wwwroot\\images\\afghan kebabs.jpg",
+      "PackagePath": "staticwebassets\\images\\afghan kebabs.jpg"
+    },
+    {
+      "Id": "D:\\.net projects\\FakeRestuarantAPI\\wwwroot\\images\\bagara baigan.webp",
+      "PackagePath": "staticwebassets\\images\\bagara baigan.webp"
+    },
+    {
+      "Id": "D:\\.net projects\\FakeRestuarantAPI\\wwwroot\\images\\baklava.jpg",
+      "PackagePath": "staticwebassets\\images\\baklava.jpg"
+    },
+    {
+      "Id": "D:\\.net projects\\FakeRestuarantAPI\\wwwroot\\images\\bengali thali.jpg",
+      "PackagePath": "staticwebassets\\images\\bengali thali.jpg"
+    },
+    {
+      "Id": "D:\\.net projects\\FakeRestuarantAPI\\wwwroot\\images\\berry pulav.jpeg",
+      "PackagePath": "staticwebassets\\images\\berry pulav.jpeg"
+    },
+    {
+      "Id": "D:\\.net projects\\FakeRestuarantAPI\\wwwroot\\images\\bombli fry.jpg",
+      "PackagePath": "staticwebassets\\images\\bombli fry.jpg"
+    },
+    {
+      "Id": "D:\\.net projects\\FakeRestuarantAPI\\wwwroot\\images\\bukhara murg.jpg",
+      "PackagePath": "staticwebassets\\images\\bukhara murg.jpg"
+    },
+    {
+      "Id": "D:\\.net projects\\FakeRestuarantAPI\\wwwroot\\images\\butter chicken.jpg",
+      "PackagePath": "staticwebassets\\images\\butter chicken.jpg"
+    },
+    {
+      "Id": "D:\\.net projects\\FakeRestuarantAPI\\wwwroot\\images\\chettinad chicken.jpg",
+      "PackagePath": "staticwebassets\\images\\chettinad chicken.jpg"
+    },
+    {
+      "Id": "D:\\.net projects\\FakeRestuarantAPI\\wwwroot\\images\\chickenn biryani.webp",
+      "PackagePath": "staticwebassets\\images\\chickenn biryani.webp"
+    },
+    {
+      "Id": "D:\\.net projects\\FakeRestuarantAPI\\wwwroot\\images\\chole batura.jpg",
+      "PackagePath": "staticwebassets\\images\\chole batura.jpg"
+    },
+    {
+      "Id": "D:\\.net projects\\FakeRestuarantAPI\\wwwroot\\images\\coffee.jpg",
+      "PackagePath": "staticwebassets\\images\\coffee.jpg"
+    },
+    {
+      "Id": "D:\\.net projects\\FakeRestuarantAPI\\wwwroot\\images\\dal bati churma.jpg",
+      "PackagePath": "staticwebassets\\images\\dal bati churma.jpg"
+    },
+    {
+      "Id": "D:\\.net projects\\FakeRestuarantAPI\\wwwroot\\images\\dal bhukara.jpg",
+      "PackagePath": "staticwebassets\\images\\dal bhukara.jpg"
+    },
+    {
+      "Id": "D:\\.net projects\\FakeRestuarantAPI\\wwwroot\\images\\filter-coffee.jpg",
+      "PackagePath": "staticwebassets\\images\\filter-coffee.jpg"
+    },
+    {
+      "Id": "D:\\.net projects\\FakeRestuarantAPI\\wwwroot\\images\\firni.jpg",
+      "PackagePath": "staticwebassets\\images\\firni.jpg"
+    },
+    {
+      "Id": "D:\\.net projects\\FakeRestuarantAPI\\wwwroot\\images\\fish curry.jpg",
+      "PackagePath": "staticwebassets\\images\\fish curry.jpg"
+    },
+    {
+      "Id": "D:\\.net projects\\FakeRestuarantAPI\\wwwroot\\images\\foodorder.png",
+      "PackagePath": "staticwebassets\\images\\foodorder.png"
+    },
+    {
+      "Id": "D:\\.net projects\\FakeRestuarantAPI\\wwwroot\\images\\ghevar.jpg",
+      "PackagePath": "staticwebassets\\images\\ghevar.jpg"
+    },
+    {
+      "Id": "D:\\.net projects\\FakeRestuarantAPI\\wwwroot\\images\\green curry.jpg",
+      "PackagePath": "staticwebassets\\images\\green curry.jpg"
+    },
+    {
+      "Id": "D:\\.net projects\\FakeRestuarantAPI\\wwwroot\\images\\grilled salmon.jpg",
+      "PackagePath": "staticwebassets\\images\\grilled salmon.jpg"
+    },
+    {
+      "Id": "D:\\.net projects\\FakeRestuarantAPI\\wwwroot\\images\\haleem.jpg",
+      "PackagePath": "staticwebassets\\images\\haleem.jpg"
+    },
+    {
+      "Id": "D:\\.net projects\\FakeRestuarantAPI\\wwwroot\\images\\hyderabad biryani.jpg",
+      "PackagePath": "staticwebassets\\images\\hyderabad biryani.jpg"
+    },
+    {
+      "Id": "D:\\.net projects\\FakeRestuarantAPI\\wwwroot\\images\\idli sambar.jpg",
+      "PackagePath": "staticwebassets\\images\\idli sambar.jpg"
+    },
+    {
+      "Id": "D:\\.net projects\\FakeRestuarantAPI\\wwwroot\\images\\karim's biryani.jpg",
+      "PackagePath": "staticwebassets\\images\\karim's biryani.jpg"
+    },
+    {
+      "Id": "D:\\.net projects\\FakeRestuarantAPI\\wwwroot\\images\\kebabs.jpg",
+      "PackagePath": "staticwebassets\\images\\kebabs.jpg"
+    },
+    {
+      "Id": "D:\\.net projects\\FakeRestuarantAPI\\wwwroot\\images\\kerala sadya.jpeg",
+      "PackagePath": "staticwebassets\\images\\kerala sadya.jpeg"
+    },
+    {
+      "Id": "D:\\.net projects\\FakeRestuarantAPI\\wwwroot\\images\\koftacurry.jpg",
+      "PackagePath": "staticwebassets\\images\\koftacurry.jpg"
+    },
+    {
+      "Id": "D:\\.net projects\\FakeRestuarantAPI\\wwwroot\\images\\kosha mangsho.jpg",
+      "PackagePath": "staticwebassets\\images\\kosha mangsho.jpg"
+    },
+    {
+      "Id": "D:\\.net projects\\FakeRestuarantAPI\\wwwroot\\images\\laal-maas.jpeg",
+      "PackagePath": "staticwebassets\\images\\laal-maas.jpeg"
+    },
+    {
+      "Id": "D:\\.net projects\\FakeRestuarantAPI\\wwwroot\\images\\lasi.webp",
+      "PackagePath": "staticwebassets\\images\\lasi.webp"
+    },
+    {
+      "Id": "D:\\.net projects\\FakeRestuarantAPI\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "D:\\.net projects\\FakeRestuarantAPI\\wwwroot\\images\\macher jhol.jpg",
+      "PackagePath": "staticwebassets\\images\\macher jhol.jpg"
+    },
+    {
+      "Id": "D:\\.net projects\\FakeRestuarantAPI\\wwwroot\\images\\mago sticky rice.jpg",
+      "PackagePath": "staticwebassets\\images\\mago sticky rice.jpg"
+    },
+    {
+      "Id": "D:\\.net projects\\FakeRestuarantAPI\\wwwroot\\images\\mango kulfi.jpg",
+      "PackagePath": "staticwebassets\\images\\mango kulfi.jpg"
+    },
+    {
+      "Id": "D:\\.net projects\\FakeRestuarantAPI\\wwwroot\\images\\mirch ka salan.jpg",
+      "PackagePath": "staticwebassets\\images\\mirch ka salan.jpg"
+    },
+    {
+      "Id": "D:\\.net projects\\FakeRestuarantAPI\\wwwroot\\images\\mishti doi.jpg",
+      "PackagePath": "staticwebassets\\images\\mishti doi.jpg"
+    },
+    {
+      "Id": "D:\\.net projects\\FakeRestuarantAPI\\wwwroot\\images\\molecular biryani.png",
+      "PackagePath": "staticwebassets\\images\\molecular biryani.png"
+    },
+    {
+      "Id": "D:\\.net projects\\FakeRestuarantAPI\\wwwroot\\images\\murgh malai tikka.jpg",
+      "PackagePath": "staticwebassets\\images\\murgh malai tikka.jpg"
+    },
+    {
+      "Id": "D:\\.net projects\\FakeRestuarantAPI\\wwwroot\\images\\mutton biryani.jpg",
+      "PackagePath": "staticwebassets\\images\\mutton biryani.jpg"
+    },
+    {
+      "Id": "D:\\.net projects\\FakeRestuarantAPI\\wwwroot\\images\\mutton rezela.webp",
+      "PackagePath": "staticwebassets\\images\\mutton rezela.webp"
+    },
+    {
+      "Id": "D:\\.net projects\\FakeRestuarantAPI\\wwwroot\\images\\mutton-keema.jpg",
+      "PackagePath": "staticwebassets\\images\\mutton-keema.jpg"
+    },
+    {
+      "Id": "D:\\.net projects\\FakeRestuarantAPI\\wwwroot\\images\\mutton-korma.jpg",
+      "PackagePath": "staticwebassets\\images\\mutton-korma.jpg"
+    },
+    {
+      "Id": "D:\\.net projects\\FakeRestuarantAPI\\wwwroot\\images\\paneer butter masala.jpg",
+      "PackagePath": "staticwebassets\\images\\paneer butter masala.jpg"
+    },
+    {
+      "Id": "D:\\.net projects\\FakeRestuarantAPI\\wwwroot\\images\\payaam.jpg",
+      "PackagePath": "staticwebassets\\images\\payaam.jpg"
+    },
+    {
+      "Id": "D:\\.net projects\\FakeRestuarantAPI\\wwwroot\\images\\pizza margaritta.webp",
+      "PackagePath": "staticwebassets\\images\\pizza margaritta.webp"
+    },
+    {
+      "Id": "D:\\.net projects\\FakeRestuarantAPI\\wwwroot\\images\\plain idli.webp",
+      "PackagePath": "staticwebassets\\images\\plain idli.webp"
+    },
+    {
+      "Id": "D:\\.net projects\\FakeRestuarantAPI\\wwwroot\\images\\qubani ka meetha.jpg",
+      "PackagePath": "staticwebassets\\images\\qubani ka meetha.jpg"
+    },
+    {
+      "Id": "D:\\.net projects\\FakeRestuarantAPI\\wwwroot\\images\\raspberry-sorbet.webp",
+      "PackagePath": "staticwebassets\\images\\raspberry-sorbet.webp"
+    },
+    {
+      "Id": "D:\\.net projects\\FakeRestuarantAPI\\wwwroot\\images\\roshogolla.webp",
+      "PackagePath": "staticwebassets\\images\\roshogolla.webp"
+    },
+    {
+      "Id": "D:\\.net projects\\FakeRestuarantAPI\\wwwroot\\images\\sali boti.jpg",
+      "PackagePath": "staticwebassets\\images\\sali boti.jpg"
+    },
+    {
+      "Id": "D:\\.net projects\\FakeRestuarantAPI\\wwwroot\\images\\samosa.webp",
+      "PackagePath": "staticwebassets\\images\\samosa.webp"
+    },
+    {
+      "Id": "D:\\.net projects\\FakeRestuarantAPI\\wwwroot\\images\\sandesh.jpg",
+      "PackagePath": "staticwebassets\\images\\sandesh.jpg"
+    },
+    {
+      "Id": "D:\\.net projects\\FakeRestuarantAPI\\wwwroot\\images\\seafood-platter.jpg",
+      "PackagePath": "staticwebassets\\images\\seafood-platter.jpg"
+    },
+    {
+      "Id": "D:\\.net projects\\FakeRestuarantAPI\\wwwroot\\images\\shahi-tukda.jpg",
+      "PackagePath": "staticwebassets\\images\\shahi-tukda.jpg"
+    },
+    {
+      "Id": "D:\\.net projects\\FakeRestuarantAPI\\wwwroot\\images\\shorshe ilish.jpg",
+      "PackagePath": "staticwebassets\\images\\shorshe ilish.jpg"
+    },
+    {
+      "Id": "D:\\.net projects\\FakeRestuarantAPI\\wwwroot\\images\\tandoori roti.jpg",
+      "PackagePath": "staticwebassets\\images\\tandoori roti.jpg"
+    },
+    {
+      "Id": "D:\\.net projects\\FakeRestuarantAPI\\wwwroot\\images\\tiramisu.jpg",
+      "PackagePath": "staticwebassets\\images\\tiramisu.jpg"
+    },
+    {
+      "Id": "D:\\.net projects\\FakeRestuarantAPI\\wwwroot\\images\\toit.png",
+      "PackagePath": "staticwebassets\\images\\toit.png"
+    },
+    {
+      "Id": "D:\\.net projects\\FakeRestuarantAPI\\wwwroot\\images\\tom yum soup.jpg",
+      "PackagePath": "staticwebassets\\images\\tom yum soup.jpg"
+    },
+    {
+      "Id": "D:\\.net projects\\FakeRestuarantAPI\\wwwroot\\images\\truffled-mac-cheese.webp",
+      "PackagePath": "staticwebassets\\images\\truffled-mac-cheese.webp"
+    },
+    {
+      "Id": "D:\\.net projects\\FakeRestuarantAPI\\wwwroot\\images\\vada-pav.jpg",
+      "PackagePath": "staticwebassets\\images\\vada-pav.jpg"
+    },
+    {
+      "Id": "D:\\.net projects\\FakeRestuarantAPI\\wwwroot\\images\\vada.JPG",
+      "PackagePath": "staticwebassets\\images\\vada.JPG"
+    },
+    {
+      "Id": "D:\\.net projects\\FakeRestuarantAPI\\wwwroot\\images\\vegetable biryani.jpg",
+      "PackagePath": "staticwebassets\\images\\vegetable biryani.jpg"
+    },
+    {
+      "Id": "D:\\.net projects\\FakeRestuarantAPI\\wwwroot\\index.css",
+      "PackagePath": "staticwebassets\\index.css"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.FakeRestuarantAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.FakeRestuarantAPI.props",
+      "PackagePath": "build\\FakeRestuarantAPI.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.FakeRestuarantAPI.props",
+      "PackagePath": "buildMultiTargeting\\FakeRestuarantAPI.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.FakeRestuarantAPI.props",
+      "PackagePath": "buildTransitive\\FakeRestuarantAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
