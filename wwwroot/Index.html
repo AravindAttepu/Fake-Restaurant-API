@@ -77,9 +77,9 @@
             <h3>say your thoughts</h3>
             <div class="inputarea">
               
-                <input type="text" id="name" placeholder="Name">
-                <input type="email" id="email" placeholder="Email">
-                <textarea name="" id="message" placeholder="Feedback" ></textarea>
+                <input type="text" id="name" placeholder="Name" required>
+                <input type="email" id="email" placeholder="Email" required>
+                <textarea name="" id="message" placeholder="Feedback" required ></textarea>
                 <button class="sub button" type="submit">Submit</button>
             </div>
         </div>
@@ -106,6 +106,7 @@
 };
 
     document.getElementById("contactForm").addEventListener("submit", function(event) {
+        
         event.preventDefault(); // Prevent form from refreshing the page
 
         emailjs.send("service_r57nawo", "template_dej173s", {
