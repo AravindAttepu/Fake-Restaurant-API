@@ -77,9 +77,9 @@
             <h3>say your thoughts</h3>
             <div class="inputarea">
               
-                <input type="text" id="name" placeholder="Name" required>
-                <input type="email" id="email" placeholder="Email" required>
-                <textarea name="" id="message" placeholder="Feedback" required ></textarea>
+                <input type="text" id="name" placeholder="Name" Required>
+                <input type="email" id="email" placeholder="Email" Required>
+                <textarea name="" id="message" placeholder="Feedback" Required ></textarea>
                 <button class="sub button" type="submit">Submit</button>
             </div>
         </div>
@@ -117,6 +117,9 @@
         }).then(
             function(response) {
                 alert("Email sent successfully!");
+                  document.getElementById("name").value= '',
+            document.getElementById("email").value='',
+            document.getElementById("message").value=''
             },
             function(error) {
                 alert("Failed to send email. Please try again.");
